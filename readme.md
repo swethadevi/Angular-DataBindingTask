@@ -1,7 +1,7 @@
 ## ****ANGULAR  Data Binding Task**** !!
 
 ### Problem Statement
- Given the Ng_DataFlow.pdf file find the solution to the six scenarios and Design the Components and follow the given approaches.
+ Given the **Ng_DataFlow.pdf** file find the solution to the six scenarios and Design the Components and follow the given approaches.
  
 ### Solution:
  The solution to the problem statement is solved and all the scenarios are handled effectively.  Have implemented the three data interaction techniques for the interaction between the components  like  @Input, @Output and EmitterData , and ViewChild 
